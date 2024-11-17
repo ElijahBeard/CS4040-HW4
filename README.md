@@ -1,5 +1,3 @@
-# Dynamic Programming
-
 # Rod-Cutting Algorithm
 
 ## Initial Solution
@@ -120,7 +118,7 @@ def coin_change_reconstruct(coins, amount): #O(1)
 ```
 
 <aside>
-<img src="https://www.notion.so/icons/timeline_gray.svg" alt="https://www.notion.so/icons/timeline_gray.svg" width="40px" /> **Time Complexity Analysis:**
+*Time Complexity Analysis:*
 
 n (coins) → $O(n)$ times [inner loop]
 
@@ -161,5 +159,3 @@ Run time for **Knuts**
 ![Screenshot 2024-11-17 at 1.48.35 PM.png](Dynamic%20Programming%2013894311bb2d804fbd89f76e79be9f5b/Screenshot_2024-11-17_at_1.48.35_PM.png)
 
 In these results I notice that the initial algorithm has a slight drop in efficiency initially starting at a 0.1 second disadvantage, which is more significant than the previous example. Although the run time follows the same general trend and the results are significantly similar.
-
-</aside># CS4040-HW4
