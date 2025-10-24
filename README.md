@@ -73,8 +73,6 @@ $$
 T(n)=\sum_{j=1}^nO(j)=\Theta(n^2)
 $$
 
-</aside>
-
 ## Analysis
 
 ![Screenshot 2024-11-17 at 1.18.15 PM.png](Dynamic%20Programming%2013894311bb2d804fbd89f76e79be9f5b/Screenshot_2024-11-17_at_1.18.15_PM.png)
