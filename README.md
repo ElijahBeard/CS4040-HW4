@@ -129,12 +129,9 @@ amount ways → $O(w)$
 **T(n)** is tightly bounded along → 
 
 $$
-T(n,a)=\sum_{n}^aO(w(i-a)=\Theta(n*a*2^a)
+T(n, a) = \sum_{i=n}^a O(w(i - a)) = \Theta(n \cdot a \cdot 2^a)
 $$
 
-</aside>
-
-<aside>
 <img src="https://www.notion.so/icons/timeline_gray.svg" alt="https://www.notion.so/icons/timeline_gray.svg" width="40px" />
 
 Run time for **USD**
